@@ -16,6 +16,9 @@ a{
 ul{
     list-style-type: none;
 }
+.font-primary{
+    font-family: var(--primary_font);
+}
 
 .btn{
 border: none;
@@ -29,4 +32,10 @@ border-radius: 2px;
 }
 .fontcolor-primary{
     color: var(--primary_color);
+}
+.base-margin{
+    margin-bottom: 22px;
+}
+.font-colorsec{
+    color: #9DA0AE;
 }
