@@ -1,0 +1,55 @@
+.header-section{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 50px 200px;
+}
+.navbar ul{
+display: flex;
+align-items: center;
+gap: 35px;
+}
+.navbar-item {
+font-family: var(--primary_font);
+font-size: 16px;
+}
+.search-box form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #E7E6EF;
+    border-radius: 5px;
+    gap: 0px;
+}
+.search-box input{
+    border: none;
+    outline: none;
+    width: 250px;
+}
+.search-box button{
+    border: none;
+    outline:none;
+    background-color: var(--primary_color);
+    padding: 8px 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
